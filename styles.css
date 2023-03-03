@@ -1,0 +1,18 @@
+
+/* The code on lines 3-7 makes the background of the header black and the text of the title of the webpage white. Change this to match what you want for your website! */
+header {
+    background-color: GREEN;
+    color: black;
+    padding: 12px 1px;
+}
+
+img {
+    width: 200px;
+}
+.item2 {
+    margin: 5px;
+    padding: 5px;
+    border: 2px solid black;
+    background: violet;
+
+}
